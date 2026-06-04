@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
+
 <body>
   <h1>フォーム入力</h1>
   <form action="confirm.php" method="post">
